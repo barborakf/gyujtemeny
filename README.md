@@ -1,0 +1,2 @@
+# gyujtemeny
+Saját első gyűjtemény
